@@ -37,3 +37,7 @@ int num,result;
  
    printf(result);
 }
+
+/*output 
+1001
+9*/
