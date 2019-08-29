@@ -1,6 +1,11 @@
+/* Print the following pattern 
+1222
+2333
+3444
+4555
+*/
+
 #include<stdio.h>
-
-
 
 int main()
 
@@ -35,3 +40,11 @@ int main()
     }
 
 }
+
+
+# output
+4
+1222
+2333
+3444
+4555
